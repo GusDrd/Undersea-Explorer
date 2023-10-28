@@ -2,7 +2,7 @@
 
 [![Unity](https://img.shields.io/badge/unity_2021.3.17f1-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
-This small 2D unity project aimed to explore procedural generation via cellular, agent behaviour management, and path finding behaviours/algorithms.
+This small 2D unity project aimed to explore procedural generation via cellular automata as well as agent behaviour management and path finding behaviours/algorithms.
 
 ## Content
 ### Generator
